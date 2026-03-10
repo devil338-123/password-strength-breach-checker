@@ -131,11 +131,4 @@ pycache/
 
 ---
 
-If you want, I can also:
 
-- 🔥 Make a professional GitHub description line
-- 📄 Create a LinkedIn project description
-- 🧠 Add this to your cybersecurity portfolio
-- 🎓 Write a mini project report for submission
-
-Tell me what you need next 👌
